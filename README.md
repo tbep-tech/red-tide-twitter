@@ -1,6 +1,8 @@
 
 # README
 
+[![DOI](https://zenodo.org/badge/318579178.svg)](https://zenodo.org/badge/latestdoi/318579178)
+
 This repository includes supplementary material to accompany Skripnikov
 et al. red tide Twitter analysis. Content includes anonymized tweet data
 (`Secure_Tweets_data.csv`), vocabularies for sentiment analysis, and
@@ -11,6 +13,9 @@ in the root directory and the sentiment analysis code and vocabularies
 are in the `Sentiment Analysis` folder.
 
     .
+    +-- DESCRIPTION
+    +-- LICENSE
+    +-- LICENSE.md
     +-- README.md
     +-- README.Rmd
     +-- red-tide-twitter.Rproj
