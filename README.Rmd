@@ -1,3 +1,7 @@
+---
+output: github_document
+---
+
 # README
 
 This repository includes supplementary material to accompany Skripnikov et al. red tide Twitter analysis. Content includes anonymized tweet data (`Secure_Tweets_data.csv`), vocabularies for sentiment analysis, and code to run sentiment analysis.  
