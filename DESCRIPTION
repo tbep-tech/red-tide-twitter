@@ -1,0 +1,7 @@
+Package: red-tide-twitter
+Title: Supplementary material to accompany Skripnikov et al. red tide Twitter analysis
+Version: 1.0
+Imports:
+  knitr,
+  rmarkdown
+License: MIT + file LICENSE
